@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@rehooks/window-size": "^1.0.2",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
@@ -10,8 +11,10 @@
     "moment": "^2.24.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-highlight-words": "^0.16.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.3.0",
+    "stein-js-client": "^0.0.2",
     "styled-components": "^5.0.0",
     "uuid": "^3.4.0"
   },
