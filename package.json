@@ -1,5 +1,10 @@
 {
   "name": "e-fishery",
+  "author": {
+    "name": "Muhammad Iqbal Muhyiddin",
+    "email": "m.iqbal.muhyiddin@gmail.com",
+    "url": "https://www.linkedin.com/in/iqbalmuhyiddin/"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
