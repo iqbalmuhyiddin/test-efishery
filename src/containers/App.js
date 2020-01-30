@@ -9,11 +9,11 @@ const { Header, Content } = Layout;
 const App = () => {
   return (
     <div className="vw-100 vh-100 bg-light overflow-auto">
-      <Layout className="layout h-100 ">
+      <Layout className="layout bg-transparent">
         <Header>
           <Logo />
         </Header>
-        <Content className="pt-4">
+        <Content className="pt-4 mb-4">
           <Router>
             <Switch>
               {routes.map(route => (
